@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Взломщик Сундуков Готика 1 - Ремейк/1.0.0": {
+        "runtime": {
+          "Взломщик Сундуков Готика 1 - Ремейк.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Взломщик Сундуков Готика 1 - Ремейк/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
